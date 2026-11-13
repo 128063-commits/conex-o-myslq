@@ -1,9 +1,9 @@
 <?php
 // Definindo os dados de conexão com o banco MySQL
-$host = "localhost";
-$banco = "banco_de_dados";
-$usuario = "root";
-$senha = "";
+$host = "sql308.infinityfree.com";
+$banco = "if0_43432848_XXX";
+$usuario = "if0_43432848 ";
+$senha = "yjQXaZMwt7ki9SN";
 
 try {
     // Criando uma instância PDO para conectar ao banco MySQL
